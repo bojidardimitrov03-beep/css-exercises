@@ -43,7 +43,7 @@ button {
 a {
   /* this removes the line under our links */
   text-decoration: none;
-  color: rebeccapurple;
+  color: rgb(179, 150, 208);
 }
 
 ul {
